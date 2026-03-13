@@ -102,13 +102,12 @@ Here are some ideas to get you started:
 **2025**
 - 빅데이터분석학회 BDA 교육기획팀 팀장
 - 'AI기초와활용' Teaching Assistant
+- 성균관대학교 국제처 산하 학생단체 HI-Club (Help&Information Club) 28기
 - 성균관대학교 문과대학 사무국 부원
 
-**2024-2025**
-- 성균관대학교 국제처 산하 학생단체 HI-Club(Help&Information Club) 28기
-
 **2024**
-– ISS(International Summer Semester) 'Introduction to Big Data Analysis' Teaching Assistant
+- ISS (International Summer Semester) 'Introduction to Big Data Analysis' Teaching Assistant
+- 성균관대학교 국제처 산하 학생단체 HI-Club (Help&Information Club) 28기
 - 성균관대학교 문헌정보학과 학생회 부원
 - 성균어학원 프렌즈 6기 · 7기
 
