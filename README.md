@@ -17,22 +17,22 @@ Here are some ideas to get you started:
 
 ## 🎓 Education
 
-**Sungkyunkwan University (SKKU)**
-Feb 2022 – Present
+**Sungkyunkwan University**
+(Feb 2022 – Present)
 - Library & Information Science
 - Business Administration
 - Software  
 
 **University of Helsinki, Finland**
-Aug 2023 - Dec 2023
+(Aug 2023 - Dec 2023)
 - Exchange student
 
 **Utrecht University, Netherlands**
-Jul 2025
+(Jul 2025)
 - Summer School
 
 **Ulsan Foreign Language High School**
-Mar 2019 – Feb 2022
+(Mar 2019 – Feb 2022)
 - Chinese Language Department  
 
 ---
