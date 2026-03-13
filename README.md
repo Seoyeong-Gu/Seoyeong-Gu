@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ## 🌏 Languages
 
-- 한국어 (Native)
+- Korean (Native)
 - English (Professional)
 - Chinese (Intermediate)
 
