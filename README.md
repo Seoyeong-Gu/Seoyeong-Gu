@@ -15,6 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## 🎓 Education
+
+**Sungkyunkwan University (SKKU)**  
+- Library & Information Science
+- Business Administration
+- Software  
+Mar 2022 – Present
+
+**Ulsan Foreign Language High School**  
+Chinese Language Department  
+Mar 2019 – Feb 2022
+
+---
+
 ## 🛠 Skills
 
 ### 💻 Languages
@@ -44,18 +58,18 @@ Here are some ideas to get you started:
   : 친환경적인 음식물 처리를 위한 미생물식 음식물 처리 키트
 - 성균관대학교 Social Entrepreneurship Team Academy 우수상  
   : 프리랜서에게 마음의 여유를 주는 맞춤형 의사소통 서비스
-
-**2024 – 2025**  
 - 정보관리연구소
   : 용어관계사전 DB 구축 사업 참여
 
 **2024**
 - 도서관 데이터 활용 공모전  
   : 도서관 검색 시스템의 패러다임 전환을 위한 대화형 AI '북나래봇' 개발
+- 정보관리연구소
+  : 용어관계사전 DB 구축 사업 참여
 
 **2023**
 - 성균관대학교 Co-Deep Learning  
-  :정보검색 기반 데이터 분석을 활용한 식품 알레르기 예방 프로젝트 (데이터베이스 및 시소러스 구축 담당)
+  : 정보검색 기반 데이터 분석을 활용한 식품 알레르기 예방 프로젝트 (데이터베이스 및 시소러스 구축 담당)
 
 **2022**
 - 성균관대학교 Learning Fair  
@@ -69,12 +83,12 @@ Here are some ideas to get you started:
 - 대학생 관광봉사 동아리 SeoulMate CRM팀
 
 **2025**
-– 빅데이터분석학회 BDA 교육기획팀 팀장
+- 빅데이터분석학회 BDA 교육기획팀 팀장
 - 'AI기초와활용' Teaching Assistant
 - 성균관대학교 문과대학 사무국 부원
 
 **2024-2025**
-성균관대학교 국제처 산하 학생단체 HI-Club(Help&Information Club) 28기
+- 성균관대학교 국제처 산하 학생단체 HI-Club(Help&Information Club) 28기
 
 **2024**
 – ISS(International Summer Semester) 'Introduction to Big Data Analysis' Teaching Assistant
