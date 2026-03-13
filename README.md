@@ -18,10 +18,18 @@ Here are some ideas to get you started:
 ## 🎓 Education
 
 **Sungkyunkwan University (SKKU)**  
-Mar 2022 – Present
+Feb 2022 – Present
 - Library & Information Science
 - Business Administration
 - Software  
+
+**University of Helsinki, Finland**
+Aug 2023 - Dec 2023
+- Exchange student
+
+**Utrecht University, Netherlands**
+Jul 2025
+- Summer School
 
 **Ulsan Foreign Language High School**  
 Mar 2019 – Feb 2022
@@ -94,16 +102,6 @@ Mar 2019 – Feb 2022
 – ISS(International Summer Semester) 'Introduction to Big Data Analysis' Teaching Assistant
 - 성균관대학교 문헌정보학과 학생회 부원
 - 성균어학원 프렌즈 6기 · 7기
-
----
-
-## 🌍 Exchange Student
-
-**2023**
-University of Helsinki (Finland)
-
-**2025**
-Utrecht University (Netherlands)
 
 ---
 
