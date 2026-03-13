@@ -75,13 +75,13 @@ Here are some ideas to get you started:
 - 성균관대학교 Social Entrepreneurship Team Academy 우수상  
   : 프리랜서에게 마음의 여유를 주는 맞춤형 의사소통 서비스
 - 정보관리연구소
-  : 용어관계사전 DB 구축 사업 참여
+  : 용어관계사전 DB 구축 사업
 
 **2024**
 - 도서관 데이터 활용 공모전  
   : 도서관 검색 시스템의 패러다임 전환을 위한 대화형 AI '북나래봇' 개발
 - 정보관리연구소
-  : 용어관계사전 DB 구축 사업 참여
+  : 용어관계사전 DB 구축 사업
 
 **2023**
 - 성균관대학교 Co-Deep Learning  
