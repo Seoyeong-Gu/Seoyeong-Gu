@@ -105,17 +105,17 @@ Here are some ideas to get you started:
 
 ---
 
-## 📚 Currently Studying
-
-- Algorithm
-- Machine Learning
-- LLM / RAG
-
----
-
 ## 🔎 Interests
 
 - Search Engine (SEO)
 - Management Information Systems (MIS)
 - Database
 - Data Visualization
+
+---
+
+## 📚 Currently Studying
+
+- Algorithm
+- Machine Learning
+- LLM / RAG
