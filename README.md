@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 Mar 2022 – Present
 
 **Ulsan Foreign Language High School**  
-Chinese Language Department  
+- Chinese Language Department  
 Mar 2019 – Feb 2022
 
 ---
