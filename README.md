@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 - 한국어 (Native)
 - English (Professional)
-- 中文 / Chinese (Intermediate)
+- Chinese (Intermediate)
 
 ---
 
