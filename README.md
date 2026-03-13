@@ -37,6 +37,14 @@ Here are some ideas to get you started:
 
 ---
 
+## 🌏 Languages
+
+- 한국어 (Native)
+- English (Professional)
+- 中文 / Chinese (Intermediate)
+
+---
+
 ## 🛠 Skills
 
 ### 💻 Languages
