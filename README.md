@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## 🎓 Education
 
-**Sungkyunkwan University (SKKU)**  
+**Sungkyunkwan University (SKKU)**
 Feb 2022 – Present
 - Library & Information Science
 - Business Administration
@@ -31,7 +31,7 @@ Aug 2023 - Dec 2023
 Jul 2025
 - Summer School
 
-**Ulsan Foreign Language High School**  
+**Ulsan Foreign Language High School**
 Mar 2019 – Feb 2022
 - Chinese Language Department  
 
