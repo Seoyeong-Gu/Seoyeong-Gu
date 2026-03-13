@@ -18,14 +18,14 @@ Here are some ideas to get you started:
 ## 🎓 Education
 
 **Sungkyunkwan University (SKKU)**  
+Mar 2022 – Present
 - Library & Information Science
 - Business Administration
 - Software  
-Mar 2022 – Present
 
 **Ulsan Foreign Language High School**  
-- Chinese Language Department  
 Mar 2019 – Feb 2022
+- Chinese Language Department  
 
 ---
 
