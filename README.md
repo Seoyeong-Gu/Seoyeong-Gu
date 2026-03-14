@@ -117,5 +117,6 @@ Here are some ideas to get you started:
 ## 📚 Currently Studying
 
 - Algorithm
+- Information Security 
 - Machine Learning
 - LLM / RAG
