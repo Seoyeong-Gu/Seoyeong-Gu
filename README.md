@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🎓 Activities
+## 👣 Activities
 
 **2026**
 - 대학생 관광봉사 동아리 SeoulMate CRM팀
