@@ -95,7 +95,7 @@ Here are some ideas to get you started:
 - 대학생 관광봉사 동아리 SeoulMate CRM팀 팀장
 
 **2025**
-- 빅데이터분석학회 BDA 교육기획팀 팀장
+- 빅데이터분석학회 BDAI 교육기획팀 팀장
 - 'AI기초와활용' Teaching Assistant
 - 성균관대학교 국제처 산하 학생단체 HI-Club (Help&Information Club) 28기
 - 성균관대학교 문과대학 사무국 부원
@@ -119,7 +119,6 @@ Here are some ideas to get you started:
 
 ## 📚 Currently Studying
 
-- Algorithm
-- Information Security 
-- Machine Learning
-- LLM / RAG
+- Information Security
+- Computer Networks
+- Workflow Automation
