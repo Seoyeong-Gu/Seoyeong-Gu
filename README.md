@@ -69,6 +69,9 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 
+**2026**
+- 캡스톤디자인프로젝트: RAG-driven Explainable Detection System for Secuure Ticket Resale 'Safe Ticket' 개발
+
 **2025**
 - 성균관대학교 융합기초프로젝트 최우수상: 친환경적인 음식물 처리를 위한 미생물식 음식물 처리 키트
 - 성균관대학교 Social Entrepreneurship Team Academy 우수상: 프리랜서에게 마음의 여유를 주는 맞춤형 의사소통 서비스
@@ -89,7 +92,7 @@ Here are some ideas to get you started:
 ## 👣 Activities
 
 **2026**
-- 대학생 관광봉사 동아리 SeoulMate CRM팀
+- 대학생 관광봉사 동아리 SeoulMate CRM팀 팀장
 
 **2025**
 - 빅데이터분석학회 BDA 교육기획팀 팀장
